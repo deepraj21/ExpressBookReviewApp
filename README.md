@@ -37,6 +37,4 @@ expressBookReviews is a project focused on managing book reviews through RESTful
 - **GET /title/:title**: Get all books based on title (public).
 - **GET /review/:isbn**: Get book review based on ISBN (public).
 
-## License
 
-This project is licensed under the Apache License License - see the [LICENSE.md](https://github.com/spear97/expressBookReviews/blob/main/LICENSE) file for details.
